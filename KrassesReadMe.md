@@ -78,4 +78,4 @@ Bei mir ist das debugging zb. sehr gut gelaufen und ich war relativ schnell dami
 Die Darstellung mit den Klammern ist mir jedoch nicht so gut gelungen ich habe diese Zwar am Ende gut platziert doch auf dem Weg dahin habe ich sehr viel Zeit mit dieser Darstellung verschendet.
 
 
-**VBV**: ich denke 
+**VBV**: Ich denke ich bräuchte definitiv mehr Übung mit der Darstellung und hätte definitiv weniger Zeit damit verbringen sollen.
