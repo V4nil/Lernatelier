@@ -8,7 +8,7 @@ Ich habe ein kleines Spiel programmiert indem man eine Zahl zwischen 1-100 errat
 
 # Was habe ich gelernt?
 
-Ich habe gelernt while und if else Schleifen zu machen und anzuwenden.
+Ich habe gelernt while und If Else Schleifen zu machen und anzuwenden.
 
 # Beschreibung
 
